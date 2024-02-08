@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Git-Finder/static/css/main.a295f111.css",
-    "main.js": "/Git-Finder/static/js/main.c42cff43.js",
+    "main.css": "/Git-Finder/static/css/main.f1f31a80.css",
+    "main.js": "/Git-Finder/static/js/main.a618dccc.js",
     "static/media/icon-sun.svg": "/Git-Finder/static/media/icon-sun.f28a8996f9959c40bdff.svg",
     "index.html": "/Git-Finder/index.html",
     "static/media/icon-moon.svg": "/Git-Finder/static/media/icon-moon.cce754cec46d095fd3ce.svg",
     "static/media/icon-search.svg": "/Git-Finder/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
-    "main.a295f111.css.map": "/Git-Finder/static/css/main.a295f111.css.map",
-    "main.c42cff43.js.map": "/Git-Finder/static/js/main.c42cff43.js.map"
+    "main.f1f31a80.css.map": "/Git-Finder/static/css/main.f1f31a80.css.map",
+    "main.a618dccc.js.map": "/Git-Finder/static/js/main.a618dccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a295f111.css",
-    "static/js/main.c42cff43.js"
+    "static/css/main.f1f31a80.css",
+    "static/js/main.a618dccc.js"
   ]
 }
